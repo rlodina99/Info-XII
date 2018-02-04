@@ -1,13 +1,20 @@
 Sortare
 ----
 
-**Insert sort** - metoda de ordonare prin inserție
+**Insert sort** - metoda inserției: sortare prin inserţie
 
 ![insert-sort](Insertion-sort-example.gif)
  - dezavantaje ?
 
-**Buble sort** 
+**Buble sort**  - metoda bulelor 
 
-**Quick sort** 
+![bubble-sort](bubble-sort.gif)
 
-**Merge sort** 
+**Quick sort**  - metoda rapida
+
+![quick-sort](quick-sort.gif)
+
+
+**Merge sort** - algoritm de sortare prin interclasare
+
+![merge-sort](merge-sort.gif)
