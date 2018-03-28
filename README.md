@@ -1,7 +1,7 @@
 Studiu la info pt. BAC
 -----
 
-<<<<<<< HEAD
+
 [Sortare (buble sort, quickSort) ](/Algoritmi/Sortare)
 =======
 [Sortare (buble sort, quickSort](/Algoritmi/Sortare/)
@@ -17,5 +17,4 @@ Studiu la info pt. BAC
 
 
 Acest README este ca un cuprins general .
->>>>>>> e3361df8bb6cffa0b484701a02c2dc7bd02899c9
 

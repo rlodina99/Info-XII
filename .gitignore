@@ -45,6 +45,7 @@ Thumbs.db
 *.i*86
 *.x86_64
 *.hex
+main
 
 # Debug files
 *.dSYM/
